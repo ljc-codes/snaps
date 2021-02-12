@@ -1,8 +1,8 @@
 # 🤞 snaps
 file management system take compressed snapshots of your filesystems
 
-### Requirements 
+## Requirements 
 python3 
 
-### Usage
+## Usage
 python3 main.py
